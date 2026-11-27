@@ -1,0 +1,1 @@
+{"name": "Parte de amanecer", "short_name": "Amanecer", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#0E1316", "theme_color": "#0E1316", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
